@@ -1,2 +1,2 @@
 user = Saulo Andres Carmona Toro
-emial = saulocarmonatoro@gmail.com
+email = saulocarmonatoro@gmail.com
